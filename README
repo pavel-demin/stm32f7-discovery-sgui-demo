@@ -1,0 +1,9 @@
+This project for the STM32F7 discovery kit consists of the following componets:
+ - SGUI library and demo by Uwe Becker
+ - F746 library by Uwe Becker
+ - STM32F7xx HAL 1.0.4
+ - CMSIS-Core 4.30.0
+
+It can be built with the GNU ARM embedded toolchain:
+
+https://launchpad.net/~team-gcc-arm-embedded/+archive/ubuntu/ppa
